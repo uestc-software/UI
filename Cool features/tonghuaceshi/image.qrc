@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/6a63f6246b600c335c0881651e4c510fd9f9a12e.jpg</file>
+        <file>image/b420626ac555f9212f44c6ecb4d1bc3a.jpg</file>
+        <file>image/white.png</file>
+        <file>image/xing.png</file>
+        <file>image/无标题.png</file>
+        <file>image/无标题1.png</file>
+        <file>image/无标题2.png</file>
+        <file>image/无标题3.png</file>
+    </qresource>
+</RCC>
