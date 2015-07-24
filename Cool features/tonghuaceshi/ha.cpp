@@ -28,18 +28,14 @@ ha::~ha()
 
 void ha::on_pushButton_clicked()
 {
-    this->xiaoshi();
-    //QTimer t;
-    //t.singleShot(1100,changeto0);
-    //this->chuxian();
+    this->setCurrentIndex(0);
+    this->chuxian();
 }
 
 void ha::on_pushButton_2_clicked()
 {
-    this->xiaoshi();
-    //t.singleShot(1100,changeto1);
-    //QTimer::singleShot(1200,changeto1);
-    //this->chuxian();
+    this->setCurrentIndex(1);
+    this->chuxian();
 }
 
 void ha::chuxian()
