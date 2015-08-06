@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>3.png</file>
+        <file>beijing001.jpg</file>
+        <file>back1.png</file>
+        <file>back2.png</file>
+        <file>back3.png</file>
+        <file>sjq1.png</file>
+        <file>sjq2.png</file>
+    </qresource>
+</RCC>
