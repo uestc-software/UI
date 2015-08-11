@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>back1.png</file>
+        <file>back2.png</file>
+        <file>back3.png</file>
+        <file>DNA1.jpg</file>
+        <file>mccap2.gif</file>
+        <file>DNA2.png</file>
+        <file>ydgqq5.mp3</file>
+        <file>pao.png</file>
+        <file>sjq1.png</file>
+        <file>sjq2.png</file>
+        <file>sjq2_wuyy.png</file>
+        <file>sjq1_wuyy.png</file>
+        <file>beijing001.jpg</file>
+        <file>mccap1.gif</file>
+        <file>loader.gif</file>
+        <file>p1_bkgrd.jpg</file>
+    </qresource>
+</RCC>
